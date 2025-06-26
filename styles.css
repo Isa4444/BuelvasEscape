@@ -13,7 +13,7 @@ body {
 
 
 header {
-  background: url('https://media.istockphoto.com/id/516633825/photo/beautiful-tayrona-beach.jpg?s=612x612&w=0&k=20&c=o_9IvE79uySDst-xCJmTYJMCiXwzkoN4uxMbC5Jz0os=') center/cover no-repeat;
+  background: url('https://media.istockphoto.com/id/171299632/photo/sunset-over-water.jpg?s=612x612&w=0&k=20&c=yF8iygxGM14LU2bdGVfZgiis4KI9CAPoyTe4SjU0WD8=') cover no-repeat;
   height: 100vh;
   position: relative;
   display: flex;
